@@ -22,8 +22,8 @@
 </div>
 
 ## Ferramentas e Materiais de Apoio
-- ## https://www.pygame.org/wiki/about
-- ## https://pyinstaller.org/en/stable/
-- ## https://en.wikipedia.org/wiki/Inno_Setup
-- ## https://youtu.be/eNEvnMOnSFg?si=GnMkY7Kqn7FWguGG
-- ## https://youtu.be/5U-nBAfbSek?si=ldp8tR-isLoSxMPW
+- ### https://www.pygame.org/wiki/about
+- ### https://pyinstaller.org/en/stable/
+- ### https://en.wikipedia.org/wiki/Inno_Setup
+- ### https://youtu.be/eNEvnMOnSFg?si=GnMkY7Kqn7FWguGG
+- ### https://youtu.be/5U-nBAfbSek?si=ldp8tR-isLoSxMPW
