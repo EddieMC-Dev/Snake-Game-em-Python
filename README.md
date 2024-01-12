@@ -6,7 +6,7 @@ do Pygame para fazê-lo, além do Pyinstaller pra gerar o executável e algumas 
 
 ## Gameplay
 <div align="left">
-    <img src="https://github.com/EddieMC-Dev/Snake-Game-em-Python/blob/main/Images%20do%20Jogo/Gameplay.PNG">
+    <img src="CONTENTS/Gameplay.PNG">
 </div>
 
 Uma mecânica bem simples, a cobra se movimenta sozinha e o usuário só escolhe a direção do movimento pelas setas do teclado. Toda vez que a cobra acerta a maça, 
