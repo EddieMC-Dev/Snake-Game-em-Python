@@ -4,7 +4,7 @@
 ### Boa tarde queridos desenvolvedores, hoje lhes trago um Snake Game totalmente feito em python e ele é exclusivo pra Windows. Mais uma vez usei a biblioteca do Pygame para fazê-lo, além do Pyinstaller pra gerar o executável e algumas libs nativas pra preservar o carregamento dos arquivos.
 
 ## Gameplay
-### Uma mecânica bem simples, a cobra se movimenta sozinha e o usuário só escolhe a direção do movimento pelas setas do teclado. Toda vez que a cobra acerta a maça, ela aumenta de tamanho, a pontuação cresce e a maça muda de posição. A cobra bate na parede a aparece na parede oposta, ou ela pode bater em si mesma e abrir a tela de gameover.
+### Uma mecânica bem simples, a cobra se movimenta sozinha e o usuário só escolhe a direção do movimento pelas setas do teclado. Toda vez que a cobra acerta a maça, ela aumenta de tamanho, a pontuação cresce e a maça muda de posição. A cobra bate na parede e aparece na parede oposta, ou ela pode bater em si mesma e abrir a tela de gameover.
 <div align="left">
     <img src="CONTENTS/Gameplay.PNG">
 </div>
