@@ -14,5 +14,8 @@ ela aumenta de tamanho, a pontuação cresce e a maça muda de posição. A cobr
 gameover.
 
 ## Gameover
+<div align="left">
+    <img src="https://github.com/EddieMC-Dev/Snake-Game-em-Python/blob/main/Images%20do%20Jogo/Gameover.PNG">
+</div>
 A tela mostra a pontuação do jogador, mas também uma mensagem sinalizando uma tecla chamada 'R' que reinicia o jogo e ela pode ser pressionada durante a movimentação
 da cobra, você decide.
