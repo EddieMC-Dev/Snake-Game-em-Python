@@ -1,4 +1,4 @@
-# Snake-Game-em-Python
+# Snake Game em Python
 
 ## Introdução
 ### Boa tarde queridos desenvolvedores, hoje lhes trago um Snake Game totalmente feito em python e ele é exclusivo pra Windows. Mais uma vez usei a biblioteca do Pygame para fazê-lo, além do Pyinstaller pra gerar o executável e algumas libs nativas pra preservar o carregamento dos arquivos.
